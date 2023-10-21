@@ -1,0 +1,28 @@
+.rounded-circle{
+    width:90px;
+    max-height:50%;
+  }
+  .overlay-btn{
+ 
+    color: #fff; 
+width: 80px;
+    font-size: 15px; 
+    text-align: center;
+
+  }
+
+.user-details {
+    width:60%;
+}
+.username{
+    font-size: 10px;
+    top:30%;
+    margin-left: 15px;
+}
+
+.downloads{
+    margin-top: -20px;
+}
+.likes{
+    margin-top: -20px;
+}
