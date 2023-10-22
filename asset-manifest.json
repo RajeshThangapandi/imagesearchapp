@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imagesearchapp/static/css/main.48cec2f6.css",
+    "main.js": "/imagesearchapp/static/js/main.1654828d.js",
+    "static/media/Sun.svg": "/imagesearchapp/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/imagesearchapp/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/imagesearchapp/index.html",
+    "main.48cec2f6.css.map": "/imagesearchapp/static/css/main.48cec2f6.css.map",
+    "main.1654828d.js.map": "/imagesearchapp/static/js/main.1654828d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48cec2f6.css",
+    "static/js/main.1654828d.js"
+  ]
+}
